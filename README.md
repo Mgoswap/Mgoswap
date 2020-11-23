@@ -12,6 +12,8 @@
 
 - MGJMaster : 0xd742fdeD402F618450ec23F6b902bf00BE3d3EeA
 
+- TimeLock : 0x6a8cd021f052Febe3dBB9aF8fEe48B3c4e94FF00
+
 <!--
 **Mgoswap/Mgoswap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
