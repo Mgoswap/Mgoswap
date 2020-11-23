@@ -4,6 +4,8 @@
 - Twitter : https://twitter.com/mgo_swap
 ### Contracts
 
+- MgoswapRouter : 0x8bccd8bbb2FCF7C31257B2524C089f7e817D4C88
+
 - MGO : 0x83777F06442704865f38bEF8141e2879b4b9c0B4
 
 - MGOMaster : 0x5dDf9416976ee6DcD88bdC650A796B2676e5c387
